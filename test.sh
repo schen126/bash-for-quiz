@@ -13,3 +13,5 @@ if [[ -d $1 ]]
 then
   echo "found it with -d!"
 fi
+
+System.exit(259)
